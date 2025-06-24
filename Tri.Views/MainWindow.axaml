@@ -1,0 +1,37 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="200" d:DesignHeight="300"
+        x:Class="Tri.Views.MainWindow"
+        Title="Tri.Views">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Spacing="10">
+            <Canvas x:Name="TriBackground"
+                    Width="200"
+                    Height="300"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Margin="0,0,0,0"/>
+            
+            <TextBlock x:Name="EndGameMessage"
+                       Text="No prime numbers left!"
+                       Foreground="#8c8c8c"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       IsVisible="False"
+                       Margin="0,0,0,0"/>
+
+            <TextBlock x:Name="ScoreText"
+                       Text=""
+                       FontSize="16"
+                       FontWeight="SemiBold"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

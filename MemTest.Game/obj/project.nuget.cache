@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Szdgz5WOmTCcTNMoGlbsjFLL22GrY56589c7G4DQzgT+/iv4mvFc0IRbOSUy87hHyGHfgZjUrSmUDXOYlOcRYA==",
+  "success": true,
+  "projectFilePath": "/Users/denisvejrazka/Projects/avalonia-grid-library/MemTest.Game/MemTest.Game.csproj",
+  "expectedPackageFiles": [
+    "/Users/denisvejrazka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/websocket.client/5.2.0/websocket.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4ZRYoSzD68DWHnZmPQDU9LnXmBEv2DH/V1olVm0QQ/CmRjAVte7qGB6WtF9PKKK5FlXfdrPISRfO6YQSsOlJw==",
+  "success": true,
+  "projectFilePath": "/Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Core/gLibrary.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/denisvejrazka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/system.reactive/6.0.0/system.reactive.6.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512",
+    "/Users/denisvejrazka/.nuget/packages/websocket.client/5.2.0/websocket.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

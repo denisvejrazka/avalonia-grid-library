@@ -1,0 +1,7 @@
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.csproj.AssemblyReference.cache
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.AssemblyInfoInputs.cache
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.AssemblyInfo.cs
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.csproj.CoreCompileInputs.cache
+/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Avalonia.sourcelink.json

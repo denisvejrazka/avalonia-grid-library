@@ -1,0 +1,19 @@
+﻿using gLibrary.Core.Engine.Models;
+using gLibrary.Core.Mapping;
+
+namespace TicTacToe.Game.Mapping
+{
+    public class TicTacToeMapper : IMap
+    {
+        public Cell GetMap(int value, int row, int col)
+        {
+            return value switch
+            {
+                0 => new Cell(row, col, "#FFFFFF"),
+                1 => new Cell(row, col, "#FFFFFF", "", "avares://TicTacToe.Views/Assets/circle.png"),
+                2 => new Cell(row, col, "#FFFFFF", "", "avares://TicTacToe.Views/Assets/cross.png"),
+                _ => throw new NotImplementedException()
+            };
+        }
+    }
+}

@@ -1,0 +1,16 @@
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/bin/Debug/net8.0/Tri.Game.deps.json
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/bin/Debug/net8.0/Tri.Game.dll
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/bin/Debug/net8.0/Tri.Game.pdb
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.AssemblyInfoInputs.cache
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.AssemblyInfo.cs
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.csproj.CoreCompileInputs.cache
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.sourcelink.json
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.dll
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/refint/Tri.Game.dll
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.pdb
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/ref/Tri.Game.dll
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/bin/Debug/net8.0/gLibrary.Core.dll
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/bin/Debug/net8.0/gLibrary.Core.pdb
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.csproj.AssemblyReference.cache
+/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/Tri.Game.csproj.Up2Date
