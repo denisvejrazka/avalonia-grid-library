@@ -15,4 +15,5 @@
   dotnet run
 ```
 POŽADAVKY: .NET 8 SDK
+
 Doporučené IDE: VS 2022+
