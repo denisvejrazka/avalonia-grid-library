@@ -33,7 +33,6 @@ public partial class MainWindow : Window
         renderer = new AvaloniaTriangleRenderer(Testik, engine, mapper, helper, cellSize, OnCellClicked /*, OnCellHovered*/);
         hexRenderer = new TriangleRenderer(renderer, engine, mapper, helper, cellSize);
         hexRenderer.RenderGrid();
-        renderer.Clear();
     }
 
     private void OnCellClicked(object? sender, CellClickEventArgs args)

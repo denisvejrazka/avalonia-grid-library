@@ -22,8 +22,8 @@
 /Users/denisvejrazka/.nuget/packages/avalonia.win32/11.3.0/lib/net8.0/Avalonia.Win32.Automation.dll
 /Users/denisvejrazka/.nuget/packages/avalonia.win32/11.3.0/lib/net8.0/Avalonia.Win32.dll
 /Users/denisvejrazka/.nuget/packages/avalonia.x11/11.3.0/lib/net8.0/Avalonia.X11.dll
-/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Core/obj/Debug/net8.0/ref/gLibrary.Core.dll
-/Users/denisvejrazka/Projects/grid-gui-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/ref/gLibrary.Rendering.Ava.dll
+/Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Core/obj/Debug/net8.0/ref/gLibrary.Core.dll
+/Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/ref/gLibrary.Rendering.Ava.dll
 /Users/denisvejrazka/.nuget/packages/harfbuzzsharp/7.3.0.3/lib/net6.0/HarfBuzzSharp.dll
 /Users/denisvejrazka/.nuget/packages/microcom.runtime/0.11.0/lib/net5.0/MicroCom.Runtime.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.2/ref/net8.0/Microsoft.CSharp.dll
@@ -195,6 +195,6 @@
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.2/ref/net8.0/System.Xml.XPath.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.2/ref/net8.0/System.Xml.XPath.XDocument.dll
 /Users/denisvejrazka/.nuget/packages/tmds.dbus.protocol/0.21.2/lib/net8.0/Tmds.DBus.Protocol.dll
-/Users/denisvejrazka/Projects/grid-gui-library/Tri.Game/obj/Debug/net8.0/ref/Tri.Game.dll
+/Users/denisvejrazka/Projects/avalonia-grid-library/Tri.Game/obj/Debug/net8.0/ref/Tri.Game.dll
 /Users/denisvejrazka/.nuget/packages/websocket.client/5.2.0/lib/net8.0/Websocket.Client.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.2/ref/net8.0/WindowsBase.dll

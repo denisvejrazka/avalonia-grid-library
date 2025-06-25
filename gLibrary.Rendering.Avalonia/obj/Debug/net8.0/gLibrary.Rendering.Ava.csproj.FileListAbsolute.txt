@@ -31,3 +31,4 @@
 /Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/refint/gLibrary.Rendering.Ava.dll
 /Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Ava.pdb
 /Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/ref/gLibrary.Rendering.Ava.dll
+/Users/denisvejrazka/Projects/avalonia-grid-library/gLibrary.Rendering.Avalonia/obj/Debug/net8.0/gLibrary.Rendering.Ava.sourcelink.json
