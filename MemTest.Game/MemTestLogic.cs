@@ -15,7 +15,6 @@ namespace MemTest.Game
         private readonly IRenderer _renderer;
         private readonly int _cellSize;
         private readonly Random _random = new();
-
         private int _score;
         private List<(int Row, int Col)> _sequence = new();
         private List<(int Row, int Col)> _playerInput = new();

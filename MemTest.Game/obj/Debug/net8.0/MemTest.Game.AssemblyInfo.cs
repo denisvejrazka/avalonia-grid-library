@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemTest.Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ece0722836467b0943429f521a2480d8aa7811a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemTest.Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemTest.Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

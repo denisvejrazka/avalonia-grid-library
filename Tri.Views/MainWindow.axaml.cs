@@ -43,7 +43,6 @@ public partial class MainWindow : Window
         int row = args.Cell.Row;
         int col = args.Cell.Column;
 
-        // Pokud je buňka už modrá (1), klik ignoruj
         if (_engine.GetCellValue(row, col) == 1)
             return;
 
