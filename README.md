@@ -22,8 +22,8 @@ git clone https://github.com/denisvejrazka/WSServer.git
 Spustit konzolovou apikaci (WebSocket server).
 
 V projektu avalonia-grid-library otevřít TicTacToe.Views a v MainWindow.axaml.cs
-do řádku: ```bash await _webSocketManager.InitializeAsync("ws://**ipaddress**/ws/"); ```
-místo ```bash "**ipaddress**"``` dopsat IP adresu a za ní příslušný port (např. 192.168.X.X:5006) z WebSocket serveru (konzolové aplikace).
+do řádku: ``` await _webSocketManager.InitializeAsync("ws://**ipaddress**/ws/"); ```
+místo ```"**ipaddress**"``` dopsat IP adresu a za ní příslušný port (např. 192.168.X.X:5006) z WebSocket serveru (konzolové aplikace).
 
 POŽADAVKY: .NET 8 SDK
 
